@@ -1,33 +1,70 @@
-#  Balaiada Produtora
+# 🎧 Balaiada Produtora
 
-> A landing page foi desenvolvida com o objetivo de converter apresentar de forma clara e estratégica os principais serviços oferecidos pela produtora.
+> Landing page desenvolvida para apresentar de forma clara e estratégica os principais serviços oferecidos pela produtora.
 
 ---
 
-> **Status do Projeto:** 🚀 Concluído
+## 🚀 Status do Projeto
+✅ **Concluído**
 
+---
 
 ## 🔗 Demonstração
+
 O site está publicado e pode ser acessado pelo link abaixo:
-👉 **[CLIQUE AQUI PARA ACESSAR O SITE](https://balaiada-landing-page.vercel.app/)**
+
+👉 **[Clique aqui para acessar o site](https://balaiada-landing-page.vercel.app/)**
 
 ---
 
-## 💻 Sobre o Projeto
-Site Institucional & E-commerce para o evento.<br>
-**Objetivo:**Apresenatar os serviços da produtopra e converter visitantes em clientes.<br>
-**UX/UI:** Interface minimalista, totalmente responsiva e focada em usabilidade.
+## 📌 Sobre o Projeto
+
+A **Balaiada Produtora** é um site institucional desenvolvido com foco na apresentação dos serviços da produtora e na conversão de visitantes em potenciais clientes.
+
+### 🎯 Objetivo
+Apresentar os serviços da produtora de forma profissional, fortalecendo a presença digital da marca e aumentando as oportunidades de conversão.
+
+### 🎨 UX/UI
+- Interface minimalista  
+- Layout moderno e intuitivo  
+- Navegação simples e objetiva  
+- Design totalmente responsivo  
+- Foco em usabilidade  
+
+---
 
 ## ✨ Funcionalidades
-- [X] **Responsividade:** O site se adapta a dispositivos móveis, tablets e desktops.
 
+- ✅ Página institucional
+- ✅ Layout responsivo (mobile, tablet e desktop)
+- ✅ Navegação intuitiva
+- ✅ Estrutura otimizada para apresentação de serviços
 
-## 🛠️ Tecnologias
-Para este projeto, utilizei as seguintes tecnologias:
+---
+
+## 🛠️ Tecnologias Utilizadas
+
+As seguintes tecnologias foram utilizadas no desenvolvimento do projeto:
 
 | Tecnologia | Descrição |
 | :--- | :--- |
-| <img align="center" alt="HTML5" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg"> | **HTML5** - Estruturação semântica do conteúdo. |
-| <img align="center" alt="CSS3" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original.svg"> | **CSS3** - Estilização, layout e responsividade. |
+| HTML5 | Estruturação semântica do conteúdo |
+| CSS3 | Estilização, layout e responsividade |
 
 ---
+
+## 📱 Responsividade
+
+A aplicação foi desenvolvida com foco em responsividade, garantindo uma boa experiência em:
+
+- 📱 Dispositivos móveis  
+- 💻 Desktops  
+- 📲 Tablets  
+
+---
+
+## 📄 Licença
+
+Este projeto foi desenvolvido para fins educacionais e para composição de portfólio.
+```
+
